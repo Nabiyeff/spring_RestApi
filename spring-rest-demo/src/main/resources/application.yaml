@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/springdatadb
+    hikari:
+      username: saleh
+      password: saleh123
+
+server:
+  port: 8088
+
